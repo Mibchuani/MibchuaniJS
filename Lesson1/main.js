@@ -50,9 +50,15 @@ console.log(`${firstName} ${middleName} ${lastName}`)
 //- За допомогою оператора typeof визначити типи наступних змінних та вивести їх в консоль.
 //   let a = 100; let b = '100'; let c = true;
 
-let a = 100;
-let b = '100'
-let c = 100 =='100';
-console.log(c);
 
+
+let a = 100
+console.log(typeof a)
+let b = 100
+console.log(typeof b)
+let c = true
+console.log(typeof c)
+
+//Додаткове для тих хто цікавився prompt`oм
+// - За допомогою 3х різних prompt() отримати 3 слова які являються вашими Імям, По-Батькові та роками. та вивести в консоль
 
