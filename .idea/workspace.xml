@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e657e611-8b2e-4471-bc6f-0038495c57ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson2/homework_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,8 @@
       <option name="presentableId" value="Default" />
       <updated>1667305321794</updated>
       <workItem from="1667305324953" duration="10160000" />
-      <workItem from="1667526304213" duration="12618000" />
+      <workItem from="1667526304213" duration="14085000" />
+      <workItem from="1667587209872" duration="1122000" />
     </task>
     <task id="LOCAL-00001" summary="add js">
       <created>1667311043086</created>
@@ -73,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667322368240</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="js hw2">
+      <created>1667581178257</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667581178289</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +89,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add js" />
     <MESSAGE value="add js hw1" />
-    <option name="LAST_COMMIT_MESSAGE" value="add js hw1" />
+    <MESSAGE value="js hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="js hw2" />
   </component>
 </project>

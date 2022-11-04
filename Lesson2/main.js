@@ -12,7 +12,7 @@ console.log(arr[6])
 console.log(arr[7])
 console.log(arr[8])
 console.log(arr[9])
-console.log(arr[10])
+
 
 
 //Створити 3 об'єкти які описують книги. Поля об'єкту : title ,pageCount, genre.
@@ -71,13 +71,13 @@ let member3 = {name: 'Kolya', username: 'tankist', password: 6456}
 let member4 = {name: 'Olya', username: 'Kvitka', password: 7878}
 let member5 = {name: 'Polya', username: 'kotyk', password: 1414}
 
-let List = {
+let List = [
     member1,
     member2,
     member3,
     member4,
     member5,
-}
+]
 
 console.log(List);
 
