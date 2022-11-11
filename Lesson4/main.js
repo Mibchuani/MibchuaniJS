@@ -1,34 +1,39 @@
 
 // - За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом всередині
-let texts = [1,2,3,4,5,6,7,8,9,10];
-for (let text of texts) {
+
+for (let a=0; a<10; a++) {
     document.write(`<div> hello </div>`)
 }
 
 // - За допомогою циклу for і document.write() вивести 10 блоків div c довільним текстом і індексом всередині
-let arr = [1,2,3,4,5,6,7,8,9,10]
-for (const arrKey in arr) {
-    document.write(`<div> hello , ${arrKey} </div>`)
+
+for (let b=0; b<10; b++) {
+    document.write(`<div> hello , ${b} </div>`)
 }
 
 // - За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом всередині.
-let abs = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
+
 let x = 0
-while (x < abs.length) {
-console.log(abs[x]);
+while (x < 20) {
+    document.write(`<h3>text</h3>`)
     x++;
 }
 // - За допомогою циклу while вивести в документ 20 блоків h1 c довільним текстом і індексом всередині.
-
+let y = 0
+while (y < 20) {
+    document.write(`<h3>text, ${y}</h3>`)
+    y++;
+}
 //- Використовуючи данні з масиву, за допомоги document.write та циклу побудувати структуру по шаблону
 // Масив:
 
 let listOfItems = ['html', 'css', 'javascript', 'mysql', 'mongodb', 'react', 'angular', 'node.js'];
-for (let i=0; i < listOfItems.length; i++) {
-//    const list = listOfItems [i];
- console.log(listOfItems[i])
+document.write(`<ul>`)
+    for (const listOfItem of listOfItems) {
+        document.write (`<li>${listOfItem}</li>`)
+    }
+    document.write(`</ul>`)
 
-}
 
 
 //Використовуючи данні з масиву, за допомоги document.write та циклу
