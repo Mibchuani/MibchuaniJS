@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e657e611-8b2e-4471-bc6f-0038495c57ad" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Lesson5/homework_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,14 @@
       <workItem from="1667587209872" duration="1816000" />
       <workItem from="1667842997204" duration="10579000" />
       <workItem from="1667997965628" duration="14746000" />
-      <workItem from="1668174173268" duration="1843000" />
+      <workItem from="1668174173268" duration="3831000" />
+      <workItem from="1668423040233" duration="10500000" />
+      <workItem from="1668521706687" duration="2000" />
+      <workItem from="1668521742932" duration="7000" />
+      <workItem from="1668521852307" duration="2000" />
+      <workItem from="1668530627618" duration="4000" />
+      <workItem from="1668683512634" duration="6831000" />
+      <workItem from="1668700601800" duration="3646000" />
     </task>
     <task id="LOCAL-00001" summary="add js">
       <created>1667311043086</created>
@@ -97,7 +105,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667923582911</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add js hw3">
+      <created>1668176266623</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668176266623</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,6 +124,7 @@
     <MESSAGE value="js hw2" />
     <MESSAGE value="add js hw2" />
     <MESSAGE value="js hw3" />
-    <option name="LAST_COMMIT_MESSAGE" value="js hw3" />
+    <MESSAGE value="add js hw3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add js hw3" />
   </component>
 </project>
