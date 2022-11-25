@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e657e611-8b2e-4471-bc6f-0038495c57ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson5/homework5_1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5/main1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/homework6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson6/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson6/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson6/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +67,8 @@
       <workItem from="1668521852307" duration="2000" />
       <workItem from="1668530627618" duration="4000" />
       <workItem from="1668683512634" duration="6831000" />
-      <workItem from="1668700601800" duration="29666000" />
+      <workItem from="1668700601800" duration="31879000" />
+      <workItem from="1669378714890" duration="7489000" />
     </task>
     <task id="LOCAL-00001" summary="add js">
       <created>1667311043086</created>
@@ -121,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668704866729</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="js hw6">
+      <created>1669113142410</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669113142410</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +140,7 @@
     <MESSAGE value="js hw3" />
     <MESSAGE value="add js hw3" />
     <MESSAGE value="js hw5" />
-    <option name="LAST_COMMIT_MESSAGE" value="js hw5" />
+    <MESSAGE value="js hw6" />
+    <option name="LAST_COMMIT_MESSAGE" value="js hw6" />
   </component>
 </project>
