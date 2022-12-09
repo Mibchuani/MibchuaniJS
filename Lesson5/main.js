@@ -63,6 +63,7 @@ function bcd(text2,num) {
     document.write(`</ul>`)
 }
 bcd('hello',4)
+
 // - створити функцію яка приймає масив примітивних елементів (числа,стрінги,булеві), та будує для них список
 let arr1 = [2, true, 16, 15, 'olena'];
 function arx1(array1) {
