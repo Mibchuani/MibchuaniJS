@@ -18,9 +18,14 @@ fetch('https://jsonplaceholder.typicode.com/users')
             container.append(usersDiv);
 
             let anc = document.createElement('a');
-            anc.innerText = 'Click me';
+            anc.innerText = 'details';
             usersDiv.append(anc);
             anc.href = `details.html?data=${user.id}`
+
+            let button = document.createElement('a');
+            button.innerText = 'posts';
+            usersDiv.append(button);
+            button.href = `posts.html?id=${post.id}`
         }
     })
 
