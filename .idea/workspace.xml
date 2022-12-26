@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e657e611-8b2e-4471-bc6f-0038495c57ad" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Mini-project/main2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Mini-project/posts.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mini-project/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mini-project/details.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mini-project/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mini-project/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini-project/main1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mini-project/main1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini-project/main2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Mini-project/main2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mini-project/posts.html" beforeDir="false" afterPath="$PROJECT_DIR$/Mini-project/posts.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <workItem from="1670610517856" duration="5960000" />
       <workItem from="1670850133947" duration="11420000" />
       <workItem from="1671203830973" duration="17093000" />
-      <workItem from="1671698647945" duration="4473000" />
+      <workItem from="1671698647945" duration="18257000" />
     </task>
     <task id="LOCAL-00001" summary="add js">
       <created>1667311043086</created>
@@ -166,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671799313265</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add mini-project js-1">
+      <created>1671811347925</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671811347925</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,6 +192,7 @@
     <MESSAGE value="add js hw8" />
     <MESSAGE value="add hw9" />
     <MESSAGE value="add mini-project js" />
-    <option name="LAST_COMMIT_MESSAGE" value="add mini-project js" />
+    <MESSAGE value="add mini-project js-1" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mini-project js-1" />
   </component>
 </project>

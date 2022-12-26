@@ -1,14 +1,12 @@
-
-button.onclick = function () {
-fetch(`https://jsonplaceholder.typicode.com/users/USER_ID/posts${id}`)
+let url = new URL(location.href);
+let post = url.searchParams.get('posts')
+fetch(`https://jsonplaceholder.typicode.com/posts`)
     .then(value => value.json())
-    .then(posts =>{
-        console.log(posts);
-        for (const post of posts) {
-            let usersPost = document.createElement('div');
+    .then(value => {
+        for (const post of value) {
+            let postDiv = document.createElement('div');
 
-            usersPost.innerText = `${user.id} -- ${user.post}`;
-            container.append(usersDiv);
+            postDiv.innerText = `${post.id} ${post.body}`
         }
-    }
-}
+        document.body.append(postDiv);
+    })
